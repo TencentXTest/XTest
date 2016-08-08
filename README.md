@@ -34,8 +34,10 @@ Xtestserver 启动后出现如下错误之一，表明jdk的环境配置有问�
 ![image](https://github.com/TencentXtest/Xtest/raw/master/images/%E5%9B%BE%E7%89%876.png)
 ![image](https://github.com/TencentXtest/Xtest/raw/master/images/%E5%9B%BE%E7%89%877.png)
 
-
-
+其他
+-----------------
+如果您还有其他问题，请加入联系我们的qq，技术问题也可以直接在github上建立issues
+https://github.com/TencentXtest/Xtest/issues
 
 
 
